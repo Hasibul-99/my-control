@@ -4,4 +4,4 @@ function setBodyOpacity(opacity) {
 }
 
 // Example usage: Set opacity to 0.8 (80%)
-setBodyOpacity(0.1);
+setBodyOpacity(1);
