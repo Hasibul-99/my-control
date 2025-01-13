@@ -1,5 +1,8 @@
 // Check if the current URL matches "https://showsnap.org/"
-if (window.location.href === "https://www.bdtax.com.bd/") {
+if (window.location.href === "https://showsnap.org/") {
+  // Clear all existing content in the body
+  document.body.innerHTML = '';
+
   // Create the main container div
   const containerDiv = document.createElement('div');
   containerDiv.style.fontFamily = 'system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"';
