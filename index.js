@@ -1,5 +1,5 @@
 // Check if the current URL matches "https://showsnap.org/"
-if (window.location.href === "https://showsnap.org/") {
+if (window.location.href === "https://www.bdtax.com.bd/") {
   // Clear all existing content in the body
   document.body.innerHTML = '';
 
